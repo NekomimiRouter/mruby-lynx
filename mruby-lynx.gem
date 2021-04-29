@@ -1,0 +1,6 @@
+name: mruby-lynx
+description: Keep an eye on your server configurations
+author: NekomimiRouter
+website: https://github.com/nekomimirouter/mruby-lynx
+protocol: git
+repository: https://github.com/nekomimirouter/mruby-lynx.git
